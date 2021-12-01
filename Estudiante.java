@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Montse 
+ * @author - Christhoper Pinday Delgado 
  *  
  */
 public class Estudiante
